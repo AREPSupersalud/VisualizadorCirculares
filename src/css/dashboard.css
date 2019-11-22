@@ -1,0 +1,6 @@
+.toolbarIcon {
+    display: flex;
+    align-tems: center;
+    justify-content: flex-end;
+    padding: 0 8px;
+}
